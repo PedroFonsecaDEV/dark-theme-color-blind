@@ -1,0 +1,39 @@
+{
+    "name": "Dark-Plus-ColorBlind",
+    "displayName": "Dark+ (color blind)",
+    "description": "Dark+ Color Blind",
+    "publisher": "PedroFonsecaDEV",
+    "author": {
+        "name": "Pedro Fonseca"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PedroFonsecaDEV/dark-theme-color-blind"
+    },
+    "bugs": {
+        "url": "https://github.com/PedroFonsecaDEV/dark-theme-color-blind/issues"
+    },
+    "icon": "images/icon/dark_plus_color_blind.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "color blind",
+        "color-blind",
+        "theme color blind",
+        "theme color-blind"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ (color blind)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ (color blind)-color-theme.json"
+            }
+        ]
+    }
+}
