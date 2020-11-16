@@ -17,6 +17,10 @@
     "bugs": {
         "url": "https://github.com/PedroFonsecaDEV/dark-theme-color-blind/issues"
     },
+    "galleryBanner": {
+        "color": "#fff",
+        "theme": "dark"
+    },
     "icon": "images/icon/dark_plus_color_blind.png",
     "categories": [
         "Themes"
