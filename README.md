@@ -1,16 +1,33 @@
-# README
-## This is the README for your extension "Dark-Plus-ColorBlind"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[image_name](img_url)
 
-**Enjoy!**
+# Dark+ (Color Blind)
+
+DARK+ theme for colorblind developers. 
+
+## Installation
+
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for dark+ color blind Theme
+3. Click Install
+
+
+## Issues & Suggestions
+
+For any issues or suggestions, please use [GitHub](https://github.com/PedroFonsecaDEV/dark-theme-color-blind).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Created my logo at LogoMakr.com. 
