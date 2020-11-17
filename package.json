@@ -31,7 +31,9 @@
         "theme color blind",
         "theme color-blind",
         "dark-theme",
-        "dark theme"
+        "dark theme",
+        "dark+ color blind",
+        "dark+ color"
     ],
     "contributes": {
         "themes": [
