@@ -1,6 +1,6 @@
 
 
-![dark+colorblind](./images/test.png)
+![dark+colorblind](https://github.com/PedroFonsecaDEV/dark-theme-color-blind/raw/master/images/test.png)
 
 # Dark+ (Color Blind)
 
