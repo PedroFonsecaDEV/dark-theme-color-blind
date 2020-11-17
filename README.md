@@ -1,6 +1,6 @@
 
 
-[image_name](img_url)
+[dark+colorblind](url)
 
 # Dark+ (Color Blind)
 
