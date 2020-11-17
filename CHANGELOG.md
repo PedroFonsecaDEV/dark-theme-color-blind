@@ -1,9 +1,3 @@
-# Change Log
+## [Release]
 
-All notable changes to the "Dark-Plus-ColorBlind" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+NOV/2020: Initial release
