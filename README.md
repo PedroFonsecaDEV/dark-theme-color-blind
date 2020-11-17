@@ -4,7 +4,7 @@
 
 # Dark+ (Color Blind)
 
-DARK+ theme for colorblind developers. 
+Dark+ theme for colorblind developers. 
 
 ## Installation
 
