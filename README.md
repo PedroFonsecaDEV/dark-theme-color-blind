@@ -9,9 +9,14 @@ Dark+ theme for colorblind developers.
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for dark+ color blind Theme
-3. Click Install
+2. Search for pedrofonsecadev
+3. Select Dark+ (color blind)
+4. Click Install
 
+### or
+
+1. Go to: [Dark+(color blind) marketplace](https://marketplace.visualstudio.com/items?itemName=PedroFonsecaDEV.dark-plus-colorblind&ssr=false#overview)
+2. Click Install
 
 ## Issues & Suggestions
 
